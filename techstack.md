@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 hanimedialab/screenshot-to-code is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
@@ -14,11 +15,13 @@ hanimedialab/screenshot-to-code is built on the following main stack:
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 hanimedialab/screenshot-to-code is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
@@ -31,14 +34,15 @@ hanimedialab/screenshot-to-code is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hanimedialab/screenshot-to-code](https://github.com/hanimedialab/screenshot-to-code)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|11/17/23 <br/>Report generated|
+|31<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -207,10 +211,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[beautifulsoup4](https://pypi.org/beautifulsoup4)|v4.12.2|11/15/23|Abi Raja |MIT|N/A|
-|[fastapi](https://pypi.org/fastapi)|v0.95.2|11/14/23|Abi Raja |MIT|N/A|
-|[python-dotenv](https://pypi.org/python-dotenv)|v1.0.0|11/14/23|Abi Raja |BSD-3-Clause|N/A|
-|[websockets](https://pypi.org/websockets)|v12.0|11/14/23|Abi Raja |BSD-3-Clause|N/A|
+|[beautifulsoup4](https://pypi.org/project/beautifulsoup4)|v4.12.2|11/15/23|Abi Raja |MIT|N/A|
+|[fastapi](https://pypi.org/project/fastapi)|v0.95.2|11/14/23|Abi Raja |MIT|N/A|
+|[python-dotenv](https://pypi.org/project/python-dotenv)|v1.0.0|11/14/23|Abi Raja |BSD-3-Clause|N/A|
+|[websockets](https://pypi.org/project/websockets)|v12.0|11/14/23|Abi Raja |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
