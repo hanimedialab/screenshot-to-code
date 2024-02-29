@@ -3,16 +3,16 @@
 ## Tech Stack
 hanimedialab/screenshot-to-code is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [CodeMirror](http://codemirror.net/) – Text Editor
 - [ESLint](http://eslint.org/) – Code Review
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -22,16 +22,16 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 hanimedialab/screenshot-to-code is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/2490/E_fCaAi6.png' alt='CodeMirror'/> [CodeMirror](http://codemirror.net/) – Text Editor
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hanimedialab/screenshot-to-code](https://github.com/hanimedialab/screenshot-to-code)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|01/05/24 <br/>Report generated|
+|31<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -212,7 +212,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[beautifulsoup4](https://pypi.org/project/beautifulsoup4)|v4.12.2|11/15/23|Abi Raja |MIT|N/A|
-|[fastapi](https://pypi.org/project/fastapi)|v0.95.2|11/14/23|Abi Raja |MIT|N/A|
+|[fastapi](https://pypi.org/project/fastapi)|v0.95.2|11/14/23|Abi Raja |MIT|[](https://github.com/advisories/GHSA-qf9m-vfgh-m389) (High)<br/>[CVE-2024-24762](https://github.com/advisories/GHSA-2jv5-9r88-3w3p) (High)|
 |[python-dotenv](https://pypi.org/project/python-dotenv)|v1.0.0|11/14/23|Abi Raja |BSD-3-Clause|N/A|
 |[websockets](https://pypi.org/project/websockets)|v12.0|11/14/23|Abi Raja |BSD-3-Clause|N/A|
 
